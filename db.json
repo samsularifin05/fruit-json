@@ -1,0 +1,124 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apel",
+      "color": "Merah",
+      "price": 25000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pisang",
+      "color": "Kuning",
+      "price": 15000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jeruk",
+      "color": "Oranye",
+      "price": 20000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Anggur",
+      "color": "Ungu",
+      "price": 40000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Table_grapes_on_white.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mangga",
+      "color": "Hijau",
+      "price": 30000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nanas",
+      "color": "Kuning",
+      "price": 18000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Semangka",
+      "color": "Hijau",
+      "price": 12000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Watermelon.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Melon",
+      "color": "Hijau",
+      "price": 22000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cantaloupe_and_cross_section.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pepaya",
+      "color": "Oranye",
+      "price": 16000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Papaya_-_single_and_halved.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Kiwi",
+      "color": "Coklat",
+      "price": 45000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Strawberry",
+      "color": "Merah",
+      "price": 60000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Blueberry",
+      "color": "Biru",
+      "price": 75000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Blueberries.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Pir",
+      "color": "Hijau",
+      "price": 28000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Pear_DS.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Kelapa",
+      "color": "Coklat",
+      "price": 10000,
+      "unit": "buah",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Coconut.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Delima",
+      "color": "Merah",
+      "price": 55000,
+      "unit": "kg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Pomegranate02_edit.jpg"
+    }
+  ]
+}
